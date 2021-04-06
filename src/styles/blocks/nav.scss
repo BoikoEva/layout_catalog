@@ -29,8 +29,7 @@
     text-transform: uppercase;
     color: #000;
     text-decoration: none;
-    transition: color;
-    transition-duration: 400ms;
+    transition: color 400ms;
   }
 
   &__link:hover {
